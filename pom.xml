@@ -23,7 +23,7 @@
 			<version>2.1.2</version>
 		</dependency>
 
-		<!-- Dependencia Local -->
+		<!-- Dependencia Local 
 		<dependency>
 			<groupId>br.com.alura.maven</groupId>
 			<artifactId>produtos</artifactId>
@@ -35,6 +35,8 @@
 				</exclusion>
 			</exclusions>
 		</dependency>
+
+		 -->
 
 		<dependency>
 			<groupId>junit</groupId>
