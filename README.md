@@ -9,6 +9,9 @@ Descrição da arquitetura [Maven Webapp Archetype](https://maven.apache.org/arc
 mvn archetype:generate  -DartifactId=webapp -DgroupId=br.sham.maven.web -DinteractiveMode=false -DarchetypeGroupId=org.apache.maven.archetypes -DarchetypeArtifactId=maven-archetype-webapp -DarchetypeVersion=1.3
 ```
 
+### Estrutura do Projeto
+![alt text](https://raw.githubusercontent.com/skatesham/webapp-jetty-maven/master/src/main/webapp/static/img/Estrutura.png)
+
 ### Configuraçãoes no `pom.xml`
 
 #### Dependencias
