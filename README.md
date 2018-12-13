@@ -1,9 +1,6 @@
 # webapp-jetty-maven
 Aplicação Web com Jetty e Maven
 
-### Certificado do Curso
-![alt text](https://raw.githubusercontent.com/skatesham/webapp-jetty-maven/master/src/main/webapp/static/img/certificado.png).
-
 A outra [projeto Java](https://github.com/skatesham/maven-course-products) desenvolvido explica uma sequencia de comandos e depdendencias do Maven no [README](https://github.com/skatesham/maven-course-products/blob/master/README.md).
 
 ### Para obter o projeto
@@ -213,6 +210,9 @@ como Controle de dependencias e automatizador de contru��o</p>
 A tela inicial utiliza de aproveitamento de template na pagina `index.jsp`
 
 ![alt text](https://raw.githubusercontent.com/skatesham/webapp-jetty-maven/master/src/main/webapp/static/img/P%C3%A1gina%20inicial.png).
+
+### Certificado do Curso
+![alt text](https://raw.githubusercontent.com/skatesham/webapp-jetty-maven/master/src/main/webapp/static/img/certificado.png).
 
 #### Curso Maven: Build do zero a web
 Esse projeto é o baseado no trabalho final do [Curso Maven: Build do zero a web](https://cursos.alura.com.br/course/maven-build-do-zero-a-web).
