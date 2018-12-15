@@ -3,6 +3,18 @@ Aplicação Web com Jetty e Maven
 
 A outra [projeto Java](https://github.com/skatesham/maven-course-products) desenvolvido explica uma sequencia de comandos e depdendencias do Maven no [README](https://github.com/skatesham/maven-course-products/blob/master/README.md).
 
+### Para obter o projeto
+```
+git clone https://github.com/skatesham/webapp-jetty-maven.git
+```
+
+
+### Para executar a applicação seb
+```
+mvn compile
+mvn jetty:run
+```
+
 ### Criação do projeto por linha de comando
 Descrição da arquitetura [Maven Webapp Archetype](https://maven.apache.org/archetypes/maven-archetype-webapp/).
 ```
