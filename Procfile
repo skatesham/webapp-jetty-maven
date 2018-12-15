@@ -1,1 +1,1 @@
-web: mvn jetty:run
+web: java -jar webapp.war
